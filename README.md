@@ -1,5 +1,7 @@
 # Penetration Testing Report for NBN Corp
 
+Note: NBN Corp and the organizational details mentioned in this repository are entirely fictional and were created solely for the purposes of a course project.
+
 This repository contains the documentation and findings of a penetration test conducted on NBN Corporation's digital assets. The test was carried out by SentinelSec Solutions as part of a cybersecurity initiative to identify vulnerabilities in NBN's external-facing web server and client machine. The documents provided summarize the methodology, findings, and recommendations for securing the network.
 
 ## Documents
